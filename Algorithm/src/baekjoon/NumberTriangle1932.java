@@ -2,7 +2,7 @@ package baekjoon;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+ 
 //dp problem
 public class NumberTriangle1932 {
 	static Integer[][] dpArray = new Integer[600][600];
